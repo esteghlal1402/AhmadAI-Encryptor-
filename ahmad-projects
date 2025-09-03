@@ -1,0 +1,7 @@
+ahmad-projects/
+├── editor-html/           ← پروژه ادیتور زنده
+│   └── index.html
+├── encryptor-cli/         ← پروژه رمزگذاری ترمینالی
+│   └── ahmad-pack-final-01.sh
+├── .gitignore             ← نگهبان فایل‌ها
+├── README.md              ← معرفی پروژه‌ها
